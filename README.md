@@ -14,10 +14,6 @@ Collect hidden gold, out‑smart roaming enemies, and beat the clock
 2. [Gameplay & Controls](#gameplay--controls)
 3. [Prerequisites](#prerequisites)
 4. [Installation](#installation)
-5. [Running the Game](#running-the-game)
-6. [Folder Structure](#folder-structure)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ---
 
